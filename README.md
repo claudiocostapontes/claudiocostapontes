@@ -1,6 +1,6 @@
 ###  Olá 👋
 ##  Sou Claudionor!!
-Trabalho com Segurança da Informação e Desenvolvimento Full Stack
+Trabalho com Segurança da Informação e Desenvolvimento Full Stack.
 Atualmente estudo Tecnologia Cybersecurity e Java
 ##  👨 Sobre mim
 [![ Github Badge ](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/claudiocostapontes)](https: //github.com/claudiocostapontes)
