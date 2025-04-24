@@ -1,11 +1,10 @@
 ###  Olá 👋
 ##  Sou Claudionor!!
-Trabalho com Desenvolvimento Full Stack e com Segurança da Informação.
-Atualmente estudo Tecnologia de Desenvolvimento Java e Cybersecurity 
+Sou Arquiteto de Software e Soluções e Desenvolvedor Java Full Stack
 ##  👨 Sobre mim
 [![ Github Badge ](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/claudiocostapontes)](https: //github.com/claudiocostapontes)
 [![ Crachá do Linkedin ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jccpontes/)] (https://www.linkedin.com/in/jccpontes/)
-[![ Selo do Gmail ](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:claudiocostapontes@gmail.com)](mailto:claudiocostapontes@gmail .com)
+[![ Selo do Gmail ](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:claudiocostapontes@gmail.com)](mailto:nuncadesista74@outlook.com)
 ##  👩‍💻 Idiomas | Estruturas | Ferramentas
 <code><img height="20" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"></code>
