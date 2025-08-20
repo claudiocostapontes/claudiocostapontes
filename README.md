@@ -1,42 +1,39 @@
-###  Olá 👋
-##  Sou Claudionor!!
-Sou Arquiteto de Software e Soluções e Desenvolvedor Java Full Stack
-##  👨 Sobre mim
-[![ Github Badge ](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/costaclaudio)](https: //github.com/claudiocostapontes)
-[![ Crachá do Linkedin ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jccpontes/)] (https://www.linkedin.com/in/jccpontes/)
-[![ Selo do Gmail ](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:claudiocostapontes@gmail.com)](mailto:nuncadesista74@outlook.com)
-##  👩‍💻 Idiomas | Estruturas | Ferramentas
-<code><img height="20" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
-<code><img height="20" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
-<code><img height="20" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"></code>
-##  ⚡ Banco de dados
-<code><img height="20" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"></code>
-<code><img height="20" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"> </code>
-##  💻IDE
-<code><img height="20" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid"></code>
-<code><img height="20" src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"></code>
+Olá! 👋 Sou Claudionor Pontes
+
+🚀 Arquiteto de Software & Soluções | Desenvolvedor Java Full Stack
+Construindo sistemas escaláveis, robustos e inovadores com foco em qualidade e performance.
+
+🔗 Conecte-se comigo:
+  [GitHub](https://github.com/claudiocostapontes)     [LinkedIn](https://www.linkedin.com/in/costaclaudio/)     [Email](mailto:claudionor.pontes@outlook.com)
+
+🎯 DIFERENCIAL TÉCNICO
+Sou especializado em arquitetura de soluções e desenvolvimento de software full stack com ênfase em:
+• Backend Java com Spring Boot, Hibernate e Microsserviços
+• Frontend moderno com React, Angular e TypeScript, HTML, CSS, Vue.js
+• Integração de APIs, JWT, Docker e boas práticas DevOps
+• Bancos relacionais e não relacionais em ambientes de alta disponibilidade
+
+🛠️ TECNOLOGIAS & FERRAMENTAS
+
+💻 Linguagens & Plataformas
+  PHP | Java | JavaScript | TypeScript | HTML5 | CSS3 | JSON | Node.js
+
+🔧 Frameworks & Bibliotecas
+  Laravel | Symfony | CodeIgniter | Spring Boot | React | Angular | Redux | jQuery
+
+🗄️ Bancos de Dados
+  MySQL | PostgreSQL | Oracle | SQLite | Microsoft SQL Server
+
+🌐 Desenvolvimento & DevOps
+  Docker | Git | Postman | JWT | RESTful APIs | CI/CD | Yarn | npm
+
+💻 IDEs & Editores
+  IntelliJ IDEA | Visual Studio Code | PhpStorm | WebStorm | Eclipse
+
+📬 Meus Contatos:
+ 
+📧 claudionor.pontes@outlook.com
+💼 [Meu LinkedIn](https://www.linkedin.com/in/costaclaudio/)
+🐙 [Meu GitHub](https://github.com/claudiocostapontes)
+
+✨ "Código limpo, arquitetura sólida e soluções que fazem a diferença."
