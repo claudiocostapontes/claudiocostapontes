@@ -2,7 +2,7 @@
 ##  Sou Claudionor!!
 Sou Arquiteto de Software e Soluções e Desenvolvedor Java Full Stack
 ##  👨 Sobre mim
-[![ Github Badge ](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/claudiocostapontes)](https: //github.com/claudiocostapontes)
+[![ Github Badge ](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/costaclaudio)](https: //github.com/claudiocostapontes)
 [![ Crachá do Linkedin ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jccpontes/)] (https://www.linkedin.com/in/jccpontes/)
 [![ Selo do Gmail ](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:claudiocostapontes@gmail.com)](mailto:nuncadesista74@outlook.com)
 ##  👩‍💻 Idiomas | Estruturas | Ferramentas
@@ -39,3 +39,4 @@ Sou Arquiteto de Software e Soluções e Desenvolvedor Java Full Stack
 <code><img height="20" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid"></code>
 <code><img height="20" src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"></code>
