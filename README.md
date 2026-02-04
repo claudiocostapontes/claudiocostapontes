@@ -8,6 +8,7 @@ Construindo sistemas escaláveis, robustos e inovadores com foco em qualidade e 
 
 🎯 DIFERENCIAL TÉCNICO
 Sou especializado em arquitetura de soluções e desenvolvimento de software full stack com ênfase em:
+
 • Backend Java com Spring Boot, Hibernate e Microsserviços;
 • Frontend moderno com React, Angular e TypeScript, HTML, CSS, Vue.js;
 • Integração de APIs, JWT, Docker e boas práticas DevOps;
